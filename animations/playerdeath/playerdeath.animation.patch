@@ -1,0 +1,17 @@
+[
+	{
+		"op" : "add",
+		"path" : "/frames",
+		"value" : "pat_squidward.png"
+	},
+	{
+		"op" : "add",
+		"path" : "/frameNumber",
+		"value" : 100
+	},
+	{
+		"op" : "add",
+		"path" : "/animationCycle",
+		"value" : 1.2
+	}
+]
